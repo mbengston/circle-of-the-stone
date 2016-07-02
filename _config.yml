@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Circle of the Stone"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A group of role playing and table top gaming enthusiast from Olympia, WA."
+url                      : "https://www.circleofthestone.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -52,9 +52,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-38010865-2"
 
 # Google AdSense
 google_ad_client         :
@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Mitchell Bengston"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Technology enthusiast and musician."
+  location         : "Olympia, WA"
+  email            : "bengstonm@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -75,22 +75,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
-  google_plus      :
+  github           : https://github.com/mbengston
+  google_plus      : https://plus.google.com/+MitchellBengston
   keybase          :
   instagram        :
-  lastfm           :
+  lastfm           : http://www.last.fm/user/twinkiethekid
   linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : http://www.last.fm/user/twinkiethekid
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : https://www.youtube.com/user/twinkie7h3kid
 
 
 # Reading Files
